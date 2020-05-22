@@ -22,3 +22,7 @@
 section, footer {
 	padding: 20px 0;
 }
+
+.caption img {
+	max-width: 180px;
+}
